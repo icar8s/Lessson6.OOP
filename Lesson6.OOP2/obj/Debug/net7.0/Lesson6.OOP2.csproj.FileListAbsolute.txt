@@ -1,0 +1,15 @@
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\bin\Debug\net7.0\Lesson6.OOP2.exe
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\bin\Debug\net7.0\Lesson6.OOP2.deps.json
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\bin\Debug\net7.0\Lesson6.OOP2.runtimeconfig.json
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\bin\Debug\net7.0\Lesson6.OOP2.dll
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\bin\Debug\net7.0\Lesson6.OOP2.pdb
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.csproj.AssemblyReference.cache
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.AssemblyInfoInputs.cache
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.AssemblyInfo.cs
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.csproj.CoreCompileInputs.cache
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.dll
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\refint\Lesson6.OOP2.dll
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.pdb
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\Lesson6.OOP2.genruntimeconfig.cache
+D:\TeachMeSkills\Lesson6.OOP\Lesson6.OOP2\obj\Debug\net7.0\ref\Lesson6.OOP2.dll
